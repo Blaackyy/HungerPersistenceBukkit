@@ -1,0 +1,6 @@
+name: Hungerpersistence
+version: '${project.version}'
+main: dev.blackyy.hungerpersistence.Hungerpersistence
+api-version: 1.13
+authors: [ Blacky ]
+description: Persist hunger Bukkit.
